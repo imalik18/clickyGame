@@ -1,3 +1,10 @@
+<h1> Welcome to the Rugrats Game!<h1>
+  
+<p>In this game you will see the characters from the Rugrats. Each character is assigned a score and you can only click on them once which will increment your score. If you click on the same character, you will lose and the game will restart, setting your score back to 0.</p>
+  
+  Good luck!
+                                  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
