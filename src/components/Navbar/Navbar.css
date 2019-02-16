@@ -1,0 +1,9 @@
+.nav {
+    height:200px;
+    background-color: aqua;
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/6/66/Rugrats_logo.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    font-size: 40px;
+    font-family: 'Indie Flower', cursive;
+}
